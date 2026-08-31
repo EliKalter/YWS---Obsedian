@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16cfc0589bad2ec3",
+            "id": "f72e52a153605486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unanimity.md",
+                "file": "Arrow theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unanimity"
+              "title": "Arrow theorem"
+            }
+          },
+          {
+            "id": "15817e4749d9ae91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "No name theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "No name theorem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unanimity.md",
+                "file": "No name theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unanimity"
+              "title": "Backlinks for No name theorem"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unanimity.md",
+                "file": "No name theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unanimity"
+              "title": "Outgoing links from No name theorem"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unanimity.md",
+                "file": "No name theorem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unanimity"
+              "title": "Outline of No name theorem"
             }
           }
         ]
@@ -183,10 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "16cfc0589bad2ec3",
+  "active": "15817e4749d9ae91",
   "lastOpenFiles": [
-    "Neutrality.md",
+    "Arrow theorem.md",
+    "No name theorem.md",
     "Unanimity.md",
+    "Neutrality.md",
     "IIA - אב\"ק.md"
   ]
 }

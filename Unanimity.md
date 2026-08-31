@@ -6,4 +6,4 @@
 Other variations:
 	$f$ respects any agreement
 	$f$ respects $k$ agreements
-	$f$ respects full agreement
+	$f$ respects full agreement 

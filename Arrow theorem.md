@@ -1,0 +1,1 @@
+If f is Unanimous, Neutral and IIA then  f is a dictatorship.
