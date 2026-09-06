@@ -28,4 +28,4 @@ We got that:
 
 ^bfa273
 
-Here we realized that this does not help a lot with intuition and moved on to [[For ehud (Sunday - 06.09.26)#^60f9c4|trying the visual approach]]
+Here we realized that this does not help a lot with intuition and moved on to [[For Ehud (Sunday - 06.09.26)#^60f9c4|trying the visual approach]]
