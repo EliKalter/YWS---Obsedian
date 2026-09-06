@@ -17,3 +17,6 @@ Independent of irrelevant (advantage?)
 
 >Def (IIA):
 >	Let $f: S_k^n \to S_k$. We say that $f$ is IIA when for all $a,b \in [k]$ $f$ is $a,b$ - IIA.
+
+[[Neutrality#^f5dcf4]]
+

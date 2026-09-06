@@ -1,6 +1,8 @@
 >Def (Neutral function on symetreis):
 >	Let $f:S_k \to S_k$. We say that $f$ is neutral when for all $\tau,\sigma \in S_k$ $f(\tau\circ\sigma\circ\tau^{-1}) = \tau\circ f(\sigma) \circ \tau^{-1}$
 
+^ad1a39
+
 >Def ($n$ - dimensional conjugation):
 >	Let $\tau \in S_k$ and $\sigma = \begin{pmatrix} \sigma_1 \\ \sigma_2 \\ \vdots \\ \sigma_n \end{pmatrix} \in S_k^n$. We denote $\tau\circ\sigma\circ\tau^{-1} := \left( \tau \circ \sigma_i \circ \tau^{-1} \right)_{i = 1}^n$.
 
@@ -17,3 +19,8 @@
 >Def ($n$ - dimensional neutrality):
 >	Let $f:S_k^n \to S_k$. We say that $f$ is neutral when for all $\tau \in S_k$ and  $\sigma = \begin{pmatrix} \sigma_1 \\ \sigma_2 \\ \vdots \\ \sigma_n \end{pmatrix} \in S_k^n$ we have that $f(\tau\circ\sigma\circ\tau^{-1}) = \tau\circ f(\sigma) \circ \tau^{-1}$
 >Where $\tau\circ\sigma\circ\tau^{-1}$ is defined according to [[#^f5dcf4|n - dim conjugation]] and $\tau\circ f(\sigma) \circ \tau^{-1}$ is normal conjugation.
+
+
+
+>Lemma:
+>	[[IIA - אבק#^048e8e|Let it go]] 
