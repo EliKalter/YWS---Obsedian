@@ -31,5 +31,10 @@
 >	>	b) Show that such linear f is a dictatorship 
 
 >4) Good interview process
+>	>We tried to model the problem of a screening process of potential candidates, and quickly realized that there is much room there for many choices to be made, and that we should look at some specific variations of the problem and model them in more detail
+>	>
+>	>(1): We decided to look at a two step process where there are interviewers on the first stage, and then a final decision is made based on the "opinions" of the interviewers.
+>	
+>	>(2): We tried to come up with a method of quantifing the "quality" of such screening systems. There will be a list of simple criteria that measures such systems, and the quality of the system will be some function of those criteria.
 
 >5) Properties a function might have
