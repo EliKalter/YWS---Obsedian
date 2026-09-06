@@ -10,7 +10,7 @@
 >Def (unordered finite collections):
 >	Let $X$ be a set. Define $[X]_n$ to be the set of all unordered collections of $X$ of size $n$.
 
->Def (inteview process):
+>Def (inteview stage):
 > 	An interview process is a collection $\left\{f_i\right\}_{i=1}^n\in[\mathcal{F}_k]_n$.
 
 ^dfad6e

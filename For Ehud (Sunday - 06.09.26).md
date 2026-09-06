@@ -31,17 +31,17 @@
 
 >3) No name theorem
 >	In our previous meeting, Ehud presented some theorem that had tow versions, a basic one, and one that expands on the first in an $\varepsilon$ manner. We did not remember the exact formulation.
->	>(1): We suggested one potential proposition that we thought could be the basic theorem. And after some work we found a counter example to that suggestion.
+>	>(1): [[No name theorem#^e256fd|We suggested one potential proposition]] that we thought could be the basic theorem. And after some work we [[No name theorem#^829045|found a counter example]] to that suggestion.
 >	
->	>(2): We carefully defined a dictator function, an index that matters to f, the ammound of influence of an index on f, and found some connections between them. For example, the characterization of f as a dictator in terms of having at most one index that matters.
+>	>(2): We carefully defined a [[Influence of an entry on a function#^f38582|dictator function]] , [[Influence of an entry on a function#^328625|an index that matters to f]] , [[Influence of an entry on a function#^ab104f|the ammount of influence of an index on f]] , and found some [[Influence of an entry on a function#^0379b7|connections between them]] .
 >	
->	>(3): We suggested an approach for proving theorems of the form "if f has this properties then f is a dictatorship":
+>	>(3): [[No name theorem#^61dc7f|We suggested an approach]] for proving theorems of the form "if f has this properties then f is a dictatorship":
 >	>	a) Prove that f is linear
 >	>	b) Show that such linear f is a dictatorship 
 
 >4) interview processes
->	>We tried to model the problem of a screening process of potential candidates, and quickly realized that there is too much room there for many choices to be made, and that we should look at some specific variation of the problem and model them in more detail.
+>	>We tried to model the problem of a screening process of potential candidates, and quickly realized that there is too much room for many choices to be made. And that we should look at some specific variation of the problem and model it in more detail.
 >	
->	>(1): We decided to look at a two step process where there are $n$ [[Model#^993617|interviewers]] in the first stage which comprise an [[Model#^dfad6e|interview process]], and then a final [[Model#^1a8ab6|decision]] is made based on the "opinions" of the interviewers.
+>	>(1): We decided to look at a two step screening process where in the first stage there are $n$ [[Model#^993617|interviewers]] which comprise an [[Model#^dfad6e|interview stage]], and in the second stage, a final [[Model#^1a8ab6|decision]] is made based on the "opinions" of the interviewers.
 >	
->	>(2): We tried to come up with a [[Model#^b2fb6f|method of quantifying the "quality"]] of such screening systems. Given a list of simple criteria that intuitively comprise the "fairness" such systems,  the quality of the system will be some function of those criteria, [[Model#^727e39|see discussion]].
+>	>(2): We tried to come up with a [[Model#^b2fb6f|method of quantifying the "quality"]] of such screening systems. Given a list of simple criteria that intuitively comprise the "fairness" of such systems,  the overall quality of the system will be some function of those simple criteria, [[Model#^727e39|see discussion]].

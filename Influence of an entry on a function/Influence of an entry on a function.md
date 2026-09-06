@@ -20,6 +20,8 @@
 >	[[#^97eb0f|In the general context]]
 >	Let $i_0 \in [n]$. We say that $i_0$ matters to $f$ when there exists $p = \begin{pmatrix} p_1 \\ p_2 \\ \vdots \\ p_n \end{pmatrix},p' = \begin{pmatrix} p'_1 \\ p'_2 \\ \vdots \\ p'_n \end{pmatrix} \in \mathcal{A}$ s.t. $\forall j \in [n]: j \neq i_0 \implies p_{j} = p'_{j}$ and $f(p) \neq f(p')$. That is to say, that there exists some point $p$ where changing only the value at  the $i_0$'th entry of $p$ changes the value of $f$.
 
+^328625
+
 >Def (The matters func):
 >	[[#^97eb0f|In the general context]]
 >	We define $matters_f:[n] \to \mathbb{Z}_2$ by $i \mapsto \begin{cases} 1 & i_0 \text{ matters to } f \\ 0 & Otherwise \end{cases}$ 
@@ -28,6 +30,8 @@
 >	[[#^97eb0f|In the general context]]
 >	Let $i_0 \in [n]$. We denote $\Delta_{i_0}:= \left\{ \begin{pmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{pmatrix} \in \mathcal{A} \Big\vert \exists x'_{i_0} \in A_{i_0} : f\begin{pmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{pmatrix} \neq f\begin{pmatrix} x_1 \\ x_2 \\ \vdots \\ x'_{i_0} \\ \vdots \\ x_n \end{pmatrix} \right\}$ . 
 >	We define the infulence of $i_0$ on $f$ to be $\frac{\left\vert \Delta_{i_0} \right\vert}{\left\vert \mathcal{A} \right\vert}$.
+
+^ab104f
 
 >Def (The influ func):
 	[[#^97eb0f|In the general context]]
