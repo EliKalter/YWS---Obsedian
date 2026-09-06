@@ -1,7 +1,8 @@
->Def (Neutral function on symetreis):
+>Def (Neutral function on permutations):
 >	Let $f:S_k \to S_k$. We say that $f$ is neutral when for all $\tau,\sigma \in S_k$ $f(\tau\circ\sigma\circ\tau^{-1}) = \tau\circ f(\sigma) \circ \tau^{-1}$
 
 ^ad1a39
+^41bc65
 
 >Def ($n$ - dimensional conjugation):
 >	Let $\tau \in S_k$ and $\sigma = \begin{pmatrix} \sigma_1 \\ \sigma_2 \\ \vdots \\ \sigma_n \end{pmatrix} \in S_k^n$. We denote $\tau\circ\sigma\circ\tau^{-1} := \left( \tau \circ \sigma_i \circ \tau^{-1} \right)_{i = 1}^n$.
