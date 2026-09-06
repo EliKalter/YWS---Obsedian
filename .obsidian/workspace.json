@@ -11,10 +11,14 @@
             "id": "7cc189daef32ab50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "For ehud (Sunday - 06.09.26).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "For ehud (Sunday - 06.09.26)"
             }
           }
         ]
@@ -178,12 +182,14 @@
   },
   "active": "7cc189daef32ab50",
   "lastOpenFiles": [
+    "Neutrality.md",
+    "For ehud (Sunday - 06.09.26).md",
+    "Unanimity.md",
+    "Untitled",
     "No name theorem.md",
     "Arrow theorem.md",
     "שאלות ששאלנו.md",
     "תכונות שפונקציה עלולה לקיים.md",
-    "Unanimity.md",
-    "Neutrality.md",
     "IIA - אב\"ק.md"
   ]
 }
