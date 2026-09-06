@@ -28,7 +28,7 @@
 >	
 >	>(3): We suggested an approach for proving theorems of the form "if f has this properties then f is a dictatorship":
 >	>	a) Prove that f is linear
->	>	b) Show that such linear f is a dictatorship
+>	>	b) Show that such linear f is a dictatorship 
 
 >4) Good interview process
 
