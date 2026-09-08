@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For Ehud (Sunday - 06.09.26).md",
+                "file": "Majority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "For Ehud (Sunday - 06.09.26)"
+              "title": "Majority"
             }
           }
         ]
@@ -182,28 +182,31 @@
   },
   "active": "ea94e03b124f066d",
   "lastOpenFiles": [
-    "Arrow theorem.md",
-    "For Ehud (Sunday - 06.09.26).md",
-    "Influence of an entry on a function/Influence of an entry on a function.md",
-    "No name theorem.md",
-    "Tournaments/Permutations as Tournaments.md",
+    "Tournaments/Tournaments and Tournament Relations.md",
+    "Majority.md",
     "Tournaments/Tournamnets as Binary Vectors.md",
+    "Tournaments/Tournaments as Graphs.md",
+    "Tournaments/Permutations as Tournaments.md",
+    "Neutrality/Neutrality.md",
+    "Tournaments",
+    "Neutrality/Our discusion about neutrality.md",
+    "Neutrality",
     "Interview Processes/Model.md",
+    "Interview Processes",
+    "Influence of an entry on a function/Linear dictatorship characterization.md",
+    "Influence of an entry on a function/Influence of an entry on a function.md",
+    "Influence of an entry on a function",
+    "IIA - אבק.md",
+    "For Ehud (Sunday - 06.09.26).md",
+    "Neutrality.md",
+    "IIA - אב\"ק.md",
+    "For ehud (Sunday - 06.09.26).md",
+    "Arrow theorem.md",
+    "No name theorem.md",
     "תכונות שפונקציה עלולה לקיים.md",
     "שאלות ששאלנו.md",
     "Unanimity.md",
     "README.md",
-    "IIA - אבק.md",
-    "Influence of an entry on a function/Linear dictatorship characterization.md",
-    "Influence of an entry on a function",
-    "Tournaments/Tournaments as Graphs.md",
-    "Tournaments/Tournaments and Tournament Relations.md",
-    "Tournaments",
-    "Interview Processes",
-    "Untitled",
-    "IIA - אב\"ק.md",
-    "Neutrality/Our discusion about neutrality.md",
-    "Neutrality/Neutrality.md",
-    "Neutrality"
+    "Untitled"
   ]
 }
