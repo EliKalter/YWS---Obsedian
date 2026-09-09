@@ -1,0 +1,1 @@
+We go for the majority option. So we put $\psi = majority$ [[The main problem#^4870b0|here]]. ([[Majority#^e5f668|See the majority function]]. And for this solution to be applicable, we need to first take care of [[Majority#^f38740|this problem]])

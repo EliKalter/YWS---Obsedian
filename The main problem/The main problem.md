@@ -50,5 +50,7 @@ Obviously the quality of the final decision might depand on the quality of the i
 >Remark:
 >	In the case where $\delta = \zeta_A \circ \psi$ for some $\psi: R^{l'} \to A$ for $A$ [[Natural way to select teams#^710c40|a set that yields order on k]] , we will call that $\psi$ "our choice of verdict system" instead/along with $\delta$.
 
+^4870b0
+
 >Quality:
 >	We will want to be able to quantify the quality of verdict methods and give a quality score to our verdict method
