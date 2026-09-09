@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The main problem/Qaulity.md",
+                "file": "The main problem/Axes of complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qaulity"
+              "title": "Axes of complexity"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "a69d5bdab59a3920",
   "lastOpenFiles": [
+    "The main problem/Striped down version.md",
+    "The main problem/Natural way to select teams.md",
+    "The main problem/Qaulity.md",
     "The main problem/The main problem.md",
-    "The main problem/Natural way to project onto teams.md",
     "Tournaments/Tournamnets as Binary Vectors.md",
     "Tournaments/Tournaments as Graphs.md",
     "Tournaments/Tournaments and Tournament Relations.md",
@@ -197,11 +199,9 @@
     "Relations/Symetric.md",
     "Relations/Transitive.md",
     "Relations/General.md",
-    "The main problem/Qaulity.md",
     "The main problem/Untitled",
     "Majority.md",
     "The main problem/Axes of complexity.md",
-    "The main problem/Striped down version.md",
     "שאלות ששאלנו.md",
     "The main problem",
     "תכונות שפונקציה עלולה לקיים.md",
