@@ -1,0 +1,2 @@
+>Def (Connex relation):
+>	Let $A$ be a set, and $R \subseteq A^2$. We say that $R$ is a anti-symetric relation on $A$ or that $R$ is anti-symetric when $\forall a,a' \in A: (a,a')\in R \implies (a',a) \not\in R$.

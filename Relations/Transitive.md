@@ -1,0 +1,2 @@
+>Def (Connex relation):
+>	Let $A$ be a set, and $R \subseteq A^2$. We say that $R$ is a transitive relation on $A$ or that $R$ is transitive when $\forall a,b,c \in A: (a,b)\in R \wedge (b,c)\in R \implies (a,c) \in R$.

@@ -10,3 +10,9 @@ Let $r \in \mathbb{N}$ denote $n := 2r + 1$, and let $m \in \mathbb{N}$. Assume 
 >Majority on all coordinates at once. (Majority coordinate wise vs Majority per each vec by itself)
 
 Let $\psi: S_k^n \to S_k$ for $k,r \in \mathbb{N}$. Denote $m:=\begin{pmatrix} k \\ 2 \end{pmatrix}, n:=2r+1$ And assume $\omega: S_k \to z_2^m$. (Here I come from the prespective of having $\omega$ that maps a permutation $\sigma$ to an element $\omega(\sigma) \in z_2^m$ s.t. both represent the same [[Tournaments and Tournament Relations#^f2bd52|tournament]] . Such bijections we have seen [[Tournamnets as Binary Vectors#^2a692b|here]] for example). Then for some  $\sigma = (\sigma_1,\dots,\sigma_n) \in S_k^n$ we can define "the majority permutation" to be the permutation that is obtained by looking at the elments of $z_2^m$ that are the images of the $\sigma_i$'s under $\omega$, for which we take the majority of each coordinate, and finaly we go back with $\omega^{-1}$ and get a permutation. Formally: Define $majority(\sigma):= \omega^{-1}\left( majority(coor_1( (\omega(\sigma_i))_{i=1}^n )), \dots,majority(coor_m( (\omega(\sigma_i))_{i=1}^n ))  \right)$
+
+TODO
+Note: It is unclear why would $majority(coor_1( (\omega(\sigma_i))_{i=1}^n )), \dots,majority(coor_m( (\omega(\sigma_i))_{i=1}^n ))$ be transitive (We have examples where it isn't...). And when it isn't, it would not make sense to apply $\omega^{-1}$... We need to check under what conditions does it make sense to define it in this way.
+
+TODO
+Note: We need to pay attention to the fact that $\omega$ is used in the definiton. We have to check under what conditions on $\omega$ this is well defined.

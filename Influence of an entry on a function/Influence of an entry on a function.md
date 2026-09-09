@@ -42,6 +42,9 @@
 >	(2): $influ_f(i_0) = \mathbb{P}_{\mathcal{A}}(\Delta_{i_0})$
 
 >Def (Dictatorship):
+
+^f80738
+
 	[[#^97eb0f|In the general context]], we say that $f$ is a dictatorship when there is $i_0 \in [n]$ s.t. for all $p = \begin{pmatrix} p_1 \\ p_2 \\ \vdots \\ p_n \end{pmatrix},p' = \begin{pmatrix} p'_1 \\ p'_2 \\ \vdots \\ p'_n \end{pmatrix} \in \mathcal{A}$ we have that if $p_{i_0} = p'_{i_0}$ then $f(p) = f(p')$. That is to say, that a change in any entry except for the $i_0$'th entry, does not change the value of $f$
 
 ^f38582
@@ -70,3 +73,14 @@
 >	In the pictures. Need time to type.
 
 ^0379b7
+
+>Def (Equal influence):
+>	[[#^97eb0f|In the general context]] we say that $f$ has eqaul influence when $\forall i,j \in [n]: influ_f(i) = iflu_f(j)$
+
+^471bf9
+
+>Def (Everyone have influence):
+>	[[#^97eb0f|In the general context]] we say that everyone has influence over $f$ when $\forall i \in [n]: matters_f(i) = 1$
+
+^cfc15d
+

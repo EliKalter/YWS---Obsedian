@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb7a7b64472a760",
+        "id": "28f39b20053ba8f4",
         "type": "tabs",
         "children": [
           {
-            "id": "ea94e03b124f066d",
+            "id": "a69d5bdab59a3920",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Majority.md",
+                "file": "The main problem/Qaulity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Majority"
+              "title": "Qaulity"
             }
           }
         ]
@@ -180,33 +180,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea94e03b124f066d",
+  "active": "a69d5bdab59a3920",
   "lastOpenFiles": [
-    "Tournaments/Tournaments and Tournament Relations.md",
-    "Majority.md",
+    "The main problem/The main problem.md",
+    "The main problem/Natural way to project onto teams.md",
     "Tournaments/Tournamnets as Binary Vectors.md",
     "Tournaments/Tournaments as Graphs.md",
+    "Tournaments/Tournaments and Tournament Relations.md",
     "Tournaments/Permutations as Tournaments.md",
-    "Neutrality/Neutrality.md",
-    "Tournaments",
-    "Neutrality/Our discusion about neutrality.md",
-    "Neutrality",
-    "Interview Processes/Model.md",
-    "Interview Processes",
-    "Influence of an entry on a function/Linear dictatorship characterization.md",
-    "Influence of an entry on a function/Influence of an entry on a function.md",
-    "Influence of an entry on a function",
-    "IIA - אבק.md",
-    "For Ehud (Sunday - 06.09.26).md",
-    "Neutrality.md",
-    "IIA - אב\"ק.md",
-    "For ehud (Sunday - 06.09.26).md",
-    "Arrow theorem.md",
-    "No name theorem.md",
-    "תכונות שפונקציה עלולה לקיים.md",
+    "Relations/Ordering.md",
+    "Relations/Relations.md",
+    "Relations/Anti-Symetric.md",
+    "Relations/Connex.md",
+    "Relations/Anti-Reflexive.md",
+    "Reflexive.md",
+    "Relations/Symetric.md",
+    "Relations/Transitive.md",
+    "Relations/General.md",
+    "The main problem/Qaulity.md",
+    "The main problem/Untitled",
+    "Majority.md",
+    "The main problem/Axes of complexity.md",
+    "The main problem/Striped down version.md",
     "שאלות ששאלנו.md",
-    "Unanimity.md",
-    "README.md",
-    "Untitled"
+    "The main problem",
+    "תכונות שפונקציה עלולה לקיים.md",
+    "Influence of an entry on a function/Untitled",
+    "Properties of a function/Properties of a function.md",
+    "Influence of an entry on a function/Influence of an entry on a function.md",
+    "Properties of a function/Equal influence.md",
+    "Neutrality/Our discusion about neutrality.md",
+    "Properties of a function/Unanimity.md",
+    "Untitled 1",
+    "Relations",
+    "Properties of a function",
+    "Tournaments",
+    "Neutrality",
+    "Interview Processes",
+    "Influence of an entry on a function"
   ]
 }
