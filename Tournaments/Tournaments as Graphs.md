@@ -48,7 +48,7 @@
 >	Let $k\in\mathbb{N}$ and $\sigma,\tau\in S_k$. Then: $G_{\sigma\tau}=\tau^{-1} G_\sigma$ , $G_{\tau\sigma}=(\sigma^{-1}\tau^{-1}\sigma)G_\sigma$ , $G_{\tau\sigma\tau^{-1}}=(\tau\sigma^{-1}\tau^{-1}\sigma)G_\sigma$ , $G_\sigma=\sigma^{-1}G_{Id}$.
 >
 >Proof:
->	TODO
+>	Whenever we have some time
 
 ^3af7f7
 

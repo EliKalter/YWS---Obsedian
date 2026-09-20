@@ -52,5 +52,5 @@ Obviously the quality of the final decision might depand on the quality of the i
 
 ^4870b0
 
->[[Qaulity]]:
+>[[Quality]]:
 >	We will want to be able to quantify the quality of verdict methods and give a quality score to our verdict method

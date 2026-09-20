@@ -36,6 +36,6 @@
 ^acc006
 
 >TODO:
->	>(1): Run the same scheme on a whole interview system, i.e. on $\delta\circ(f_1,\dots,f_n)$ for [[The main problem#^4870b0|a verdict method]] $\delta$. The pointwise step is identical; what is new is that the input error is now a vector of errors $\big( Err_{f_i} \big)_{i=1}^n$, and the question becomes which $\delta$ contract it and by how much. That is the quantitative form of [[Qaulity]].
+>	>(1): Run the same scheme on a whole interview system, i.e. on $\delta\circ(f_1,\dots,f_n)$ for [[The main problem#^4870b0|a verdict method]] $\delta$. The pointwise step is identical; what is new is that the input error is now a vector of errors $\big( Err_{f_i} \big)_{i=1}^n$, and the question becomes which $\delta$ contract it and by how much. That is the quantitative form of [[Quality]].
 >	
 >	>(2): Lower bounds. The theorem says a good interviewer cannot produce a bad team. It says nothing about how good an interviewer has to be,  we have no converse of the form "if $\mathfrak{E}_1(f)\ge\varepsilon$ then $\mathfrak{E}_3(f)\ge\psi(\varepsilon)$" and maybe no such converse exists without further assumptions on $f$. Which assumptions?

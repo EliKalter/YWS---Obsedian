@@ -15,7 +15,7 @@
 ^967160
 
 >Note:
->	For $d$ to be [[#^967160|a pseudo matric]] on $X$, it has to have the same requirements as [[Metric spce#^344d53|a matric]] on $X$ except for the "[[Metric spce#^6067ad|fully positive]]" requirement that is weakend to just "[[#^6222e1|positive]]".
+>	For $d$ to be [[#^967160|a pseudo matric]] on $X$, it has to have the same requirements as [[Metric space#^344d53|a matric]] on $X$ except for the "[[Metric space#^6067ad|fully positive]]" requirement that is weakend to just "[[#^6222e1|positive]]".
 
 >Def (Equivalency under a pseudo matric):
 >	Let $X$ be a set. And $d$ [[#^3a1a19|a pseudo - matric]] on $X$.

@@ -7,12 +7,10 @@
 
 ^29ad08
 
->Def (Unanimous function):
-
-^e845f4
-
-	In the same context as [[#^29ad08|the last definition]], we say that $f$ is unanimous when it is $1$ - unanimous.
+>Def (Unanimous function): 
+>	In the same context as [[#^29ad08|the last definition]], we say that $f$ is unanimous when it is $1$ -unanimous.
 	That is to say that if all the voters agree on who is the best candidate, then $f(\sigma)$ agrees and sends that candidate to $1$.
+^e845f4
 
 
 >Def (all-unanimity):

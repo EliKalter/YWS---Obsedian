@@ -3,10 +3,6 @@
 >	Let $k \in \mathbb{N}$. Define $E_k := \{\{a,b\} \subseteq [k] : a \neq b\}$. A tournament is a mapping $E_k \to \mathbb{F}_2$. Define $T_k := \mathbb{F}_2^{E_k}$, the set of all tournaments.
 
 ^f2bd52
-
->Def (tournament relation):
->	Let $X$ be a set. Say $R \subseteq X^2$ is a tournament relation if it is asymmetric and semiconnex: menaing .
-
 >Def ($\mathbf{1}_{[\cdot R\cdot]}$):
 >	Let $X$ be a set. For a binary relation $R \subseteq X^2$ and $x,y \in X$, define $\mathbf{1}_{[xRy]} := 𝟙_R\big((x,y)\big)$ where $𝟙_R : X^2 \to \mathbb{F}_2$ is the indicator of $R$.
 
@@ -18,7 +14,7 @@
 
 >Proposition (tournaments and tournament relations):
 >	Let $k\in\mathbb{N}$. 
->	(i) $Y \mapsto\, \succ_Y$ is a bijection from $T_k$ onto the set of tournament relations on $[k]$.
+>	(i) $Y \mapsto\, \succ_Y$ is a bijection from $T_k$ onto the set of  [[Tournament|tournament relations]] on $[k]$.
 >	(ii) For $Y \in T_k$, it holds that $Y \in L_k$ iff $\succ_Y$ is a strict total order on $[k]$. Hence $Y \mapsto\, \succ_Y$ restricts to a bijection from $L_k$ onto the set of strict total orders on $[k]$.
 >	
 >Proof:

@@ -41,11 +41,11 @@
 >	
 >	>(5): We noticed the chain is strictly one directional, [[potential something#^acc005|see remark]]: accuracy at $X_1$ is genuinely stronger than accuracy at $X_3$, which is exactly why it is worth assuming upstairs.
 
->TODO:
+>
 >	>(1): Sharp constants. Is $k-1$ [[Compatibility and contraction#^ab12c3|here]] attained? The refined count in that proof suggests $\begin{pmatrix} k \\ 2 \end{pmatrix} - \begin{pmatrix} k-s \\ 2 \end{pmatrix}$ is the truth.
 >	
 >	>(2): Which discrepencies on $S_k$ are the "right" ones? A natural demand is invariance under relabelling of the candidates, which is the same flavour as [[Neutrality#^41bc65|neutrality]]. Worth checking which of [[Discrepencies on the levels#^d20b7e|our level $2$ discrepencies]] are invariant, and whether invariance alone pins one down.
 >	
->	>(3): The whole scheme is stated for one interviewer. The verdict method $\delta$ of [[The main problem#^4870b0|the main problem]] is a map out of $(R^{l'})^n$, so to speak about *systems* we should run the same argument on $\delta\circ(f_1,\dots,f_n)$ and ask how the errors of the $f_i$'s accumulate into the error of $\delta$. This is the bridge to [[Qaulity]].
+>	>(3): The whole scheme is stated for one interviewer. The verdict method $\delta$ of [[The main problem#^4870b0|the main problem]] is a map out of $(R^{l'})^n$, so to speak about *systems* we should run the same argument on $\delta\circ(f_1,\dots,f_n)$ and ask how the errors of the $f_i$'s accumulate into the error of $\delta$. This is the bridge to [[Quality]].
 >	
 >	>(4): [[Error of an interviewer#^d15701|The distribution of the candidates]] is still a free parameter. Which $\mu$ is the honest one?
