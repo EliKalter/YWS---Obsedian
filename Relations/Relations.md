@@ -13,3 +13,5 @@
 >[[Semmi Connex]]
 
 >[[Ordering]]
+
+>[[Equivalence]]
