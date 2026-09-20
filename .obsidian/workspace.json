@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe7f02fe6aac981f",
+        "id": "8b3a2c515bd93741",
         "type": "tabs",
         "children": [
           {
-            "id": "0933d43744cd5b3e",
+            "id": "e82724a627d48040",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,16 +180,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "0933d43744cd5b3e",
+  "active": "e82724a627d48040",
   "lastOpenFiles": [
-    "Short notation/Natural projection of a set into a set/Natural projection of a set into a set.md",
-    "Short notation/Natural projection of a set into a set/The list of atomic natural projections.md",
-    "Short notation/Natural projection of a set into a set",
-    "Short notation/Examples.md",
     "The main problem/Natural way to select teams.md",
+    "Short notation/Natural projection of a set into a set/The list of atomic natural projections.md",
     "Short notation/Image of element under function.md",
-    "The main problem/The main problem.md",
+    "Short notation/Natural projection of a set into a set/Natural projection of a set into a set.md",
     "TODO.md",
+    "Short notation/Examples.md",
+    "Short notation/Natural projection of a set into a set",
+    "The main problem/The main problem.md",
     "Short notation",
     "Relations/A set that induces a relation",
     "Relations/Ordering.md",

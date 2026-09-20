@@ -45,3 +45,4 @@
 >	>Note:
 >	>	In the case where $B$ is one of the relations, it might not be possible to both [[#^2d6c82|drop the X from the symbol]] and drop the function from the symbol. At all times, the symbol has to be either clear from context or sufficiently denoted.
 
+TODO Elie
